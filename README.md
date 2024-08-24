@@ -1,4 +1,5 @@
-# *Automated-Attendance-System*
+# *Team-4 Internship-Deif-Allah*
+## *Automated-Attendance-System*
 ### System to take the attendance of  students and teachers build on image data of them
 
 <div style="display: flex; justify-content: center;">
