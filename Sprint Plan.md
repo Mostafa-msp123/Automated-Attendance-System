@@ -6,12 +6,17 @@
   <img src="https://github.com/user-attachments/assets/a6678a71-22c6-4f18-a5c1-3dcc77ad3a74" alt="Attendance" width="400" height="auto"/>
 </div>
 
-Project: Automated Attendance System.
+## Project: Automated Attendance System.
+#### Requirements
+
+
+
 
 Sprint 1: Setting up the foundation.
-Sprint duration: 1 Week and 5 days.
+Sprint duration: 2 Week.
 Sprint goal:Establish the project's infrastructure and ensure that the right duration is chosen and the right data is collected.
-
+Sprint Deadline: 15-9-2024
+Sprint Requirements:
 Task 1: Project Setup,Collecting Data and gathering requirements.
 - priority: High
 - Outputs:Setting up the work environment, defining project requirements with the team and collecting data
@@ -33,13 +38,14 @@ Task 3:Design an appropriate UI.
 Task 4:Make the Model And Create a Basic Prototype.
 - priority:High
 - Outputs:Developing a simple prototype that tests facial recognition.
-- Estimate:3 days
+- Estimate:5 days
 - Status:not yet
-- Due Date:the 3rd day
+- Due Date:the 5th day
 
 
 Sprint 2: Development and integration.
 Sprint Duration:1 week and 3 days.
+Sprint Deadline: 25-9-2024
 Task 1: Full System Development
 - priority:High
 - Outputs:Full system development including database, user interfaces, and cameras.
